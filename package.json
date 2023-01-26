@@ -1,4 +1,8 @@
 {
+  "resolutions": {
+    "assemblyscript": "git+https://github.com/AssemblyScript/assemblyscript.git#v0.6"
+  },
+
   "name": "@scaffold-eth/monorepo",
   "version": "1.0.0",
   "keywords": [
